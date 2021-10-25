@@ -4,8 +4,7 @@ This folder contains scripts with examples of RNN applications
 
 In the folder Audio Example:
 
-- RNN_Audio_CleaningData.py: Script that cleans the data in Paper3_WebData_Final.csv. Instructions of the 
-example appear in the "Instructs" files
+- RNN_Audio_CleaningData.py: Script that cleans the data in Paper3_WebData_Final.csv (https://drive.google.com/file/d/1OGrGypCP2dao-607zxE2dHejsnitW8j0/view?usp=sharing). 
 
 
 - RNN_Audio_Training.py: RNN model that predicts the missing frequencies
