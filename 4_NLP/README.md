@@ -5,3 +5,6 @@ Repository with NLP examples:
 
 * Sentiment Analysis.ipynb: Sentiment Analysis model that uses transfer learning for classification
 
+
+* NLP_example_using_BERT.ipynb: Example using BERT and Tensorflow for sentiment classification
+* 
