@@ -1,5 +1,7 @@
 """
 Script using a simple CNN to clasiffy black&white images
+
+Author: Francisco Mena
 """
 
 
