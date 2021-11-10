@@ -1,6 +1,7 @@
 
 """
 Use TF datasets to load data, use tf.iamges to augment, and CCN with regularization  
+Author : Francisco Mena
 """
 
 import numpy as np
