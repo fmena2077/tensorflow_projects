@@ -3,7 +3,7 @@
 Created on Fri Aug 20 19:30:07 2021
 Read data from different csv files using Tensorflow Dataset
 
-@author: franc
+@author: francisco mena
 """
 
 import os
