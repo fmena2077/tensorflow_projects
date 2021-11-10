@@ -2,6 +2,7 @@
 
 """
 Script using a simple CNN to clasiffy color images
+Author : Francisco Mena
 """
 
 import numpy as np
