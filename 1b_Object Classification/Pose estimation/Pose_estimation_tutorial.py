@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Sep 11 17:27:08 2021
+Based on the following sources
 https://towardsdatascience.com/realtime-multiple-person-2d-pose-estimation-using-tensorflow2-x-93e4c156d45f
 https://github.com/Mjrovai/TF2_Pose_Estimation/blob/master/10_Pose_Estimation_Images.ipynb
 https://www.youtube.com/watch?v=Uui-7bag7Pk
 
 Pose Estimation Tutorial
 
-@author: franc
+@author: francisco mena
 """
 
 # Importing necessary libraries
