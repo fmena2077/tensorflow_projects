@@ -3,7 +3,7 @@
 Created on Fri Aug 20 19:18:05 2021
 Script to save data into multiple csvs
 
-@author: franc
+@author: francisco mena
 """
 
 import os
