@@ -6,7 +6,7 @@ Load different models and see how they classify an image
 
 https://www.tensorflow.org/hub/tutorials/image_classification
 
-@author: franc
+@author: Francisco Mena
 """
 
 import tensorflow as tf
