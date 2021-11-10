@@ -4,7 +4,7 @@ Created on Sun Aug 29 19:02:51 2021
 
 Recurrent series tutorial
 
-@author: franc
+@author: francisco mena
 """
 
 import pandas as pd
