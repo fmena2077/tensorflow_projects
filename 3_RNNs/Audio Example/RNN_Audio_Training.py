@@ -2,7 +2,7 @@
 """
 Created on Sat Sep  4 19:26:39 2021
 
-@author: franc
+@author: francisco mena
 """
 
 import os
