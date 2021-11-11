@@ -7,4 +7,6 @@ Repository with NLP examples:
 
 
 * NLP_example_using_BERT.ipynb: Example using BERT and Tensorflow for sentiment classification
-* 
+
+
+* Lets try HuggingFace.ipynb: Examples showing how to use HuggingFace for different NLP applications (note: uses pytorch) 
