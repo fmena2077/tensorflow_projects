@@ -2,7 +2,7 @@
 """
 Created on Sat Sep  4 18:31:51 2021
 
-@author: franc
+@author: francisco mena
 """
 import os
 os.chdir('C:\\Users\\franc\\projects\\letstf2gpu\\3_ RNNs')
